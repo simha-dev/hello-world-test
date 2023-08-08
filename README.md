@@ -1,4 +1,4 @@
-simha-feature-1 push-2
+simha-preprod-push
 # About this action
 
 This is a test action. Do not use this in a workflow
