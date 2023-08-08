@@ -1,3 +1,5 @@
+simha-readme-push
+
 # About this action
 
 This is a test action. Do not use this in a workflow
