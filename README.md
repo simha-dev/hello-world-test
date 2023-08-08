@@ -1,4 +1,4 @@
-simha-readme-push
+simha-push-new
 
 # About this action
 
