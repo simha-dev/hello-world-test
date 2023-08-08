@@ -1,4 +1,4 @@
-simha-push-new
+simha-preprod-push
 
 # About this action
 
