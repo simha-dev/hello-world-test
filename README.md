@@ -1,5 +1,4 @@
-simha-push-new
-
+simha-feature-1 push
 # About this action
 
 This is a test action. Do not use this in a workflow
