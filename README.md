@@ -1,4 +1,4 @@
-simha-preprod-push-2
+simha-preprod-push-3
 # About this action
 
 This is a test action. Do not use this in a workflow
