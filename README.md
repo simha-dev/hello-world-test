@@ -6,7 +6,7 @@ readme change
 asdfgadsgvsadgv dfg dsg 
 
 sdfsdfdsfdsf
-# About this action
+# About this action sg
 sdfsadfasfasD
 
 This is a test action. Do not use this in a workflow
